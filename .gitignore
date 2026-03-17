@@ -1,0 +1,13 @@
+*.py
+*.spec
+*.bat
+*.iss
+*.ico
+*.exe
+*.zip
+app/
+dist/
+build/
+__pycache__/
+.claude/
+desktop.ini

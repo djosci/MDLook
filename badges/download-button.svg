@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="44" viewBox="0 0 150 44">
+  <rect width="150" height="44" rx="8" fill="#c57147"/>
+  <foreignObject x="0" y="0" width="150" height="44">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display:flex;align-items:center;justify-content:center;gap:8px;width:150px;height:44px">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 4875 4875">
+        <path fill="white" d="M0 0h2311v2310H0zm2564 0h2311v2310H2564zM0 2564h2311v2311H0zm2564 0h2311v2311H2564"/>
+      </svg>
+      <span style="font-family:Inter,Helvetica Neue,Helvetica,Arial,sans-serif;font-size:15px;font-weight:600;color:white;letter-spacing:0.3px">Download</span>
+    </div>
+  </foreignObject>
+</svg>
