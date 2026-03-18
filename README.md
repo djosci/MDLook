@@ -8,7 +8,7 @@
 <p align="center"><strong>A portable, fully offline Markdown editor for Windows.</strong><br>Unzip. Run. No install, no internet, no Electron.</p>
 
 <p align="center">
-  <a href="https://github.com/onofle/MDLook/releases/latest"><img src="badges/download-button.svg" alt="Download MDLook" /></a>
+  <a href="https://github.com/djosci/MDLook/releases/latest"><img src="badges/download-button.svg" alt="Download MDLook" /></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
   <a href="#features">Features</a> &middot;
   <a href="#comparison">Comparison</a> &middot;
   <a href="#faq">FAQ</a> &middot;
-  <a href="https://github.com/onofle/MDLook/issues">Issues</a>
+  <a href="https://github.com/djosci/MDLook/issues">Issues</a>
 </p>
 
 ![Read mode](screenshots/screenshot-read-1.png)
@@ -109,15 +109,15 @@ See [GUIDE.md](GUIDE.md) for the full feature reference with examples.
 
 ## Download
 
-**[Portable zip](https://github.com/onofle/MDLook/releases/latest)** (31 MB) - Unzip anywhere, run `MDLook.exe`. Works from a USB stick.
+**[Portable zip](https://github.com/djosci/MDLook/releases/latest)** (31 MB) - Unzip anywhere, run `MDLook.exe`. Works from a USB stick.
 
-**[Installer](https://github.com/onofle/MDLook/releases/latest)** (22 MB) - Standard Next > Next > Finish setup.
+**[Installer](https://github.com/djosci/MDLook/releases/latest)** (22 MB) - Standard Next > Next > Finish setup.
 
 ## FAQ
 
 **Will MDLook support macOS or Linux?**
 
-It's on the radar. MDLook started as a personal tool I built to solve my own problem as a physician. Windows is what I use daily, so that's where it runs today. If there's enough demand, cross-platform is the natural next step. [Open an issue](https://github.com/onofle/MDLook/issues) if this matters to you; that's how I gauge interest.
+It's on the radar. MDLook started as a personal tool I built to solve my own problem as a physician. Windows is what I use daily, so that's where it runs today. If there's enough demand, cross-platform is the natural next step. [Open an issue](https://github.com/djosci/MDLook/issues) if this matters to you; that's how I gauge interest.
 
 **Is MDLook free?**
 
@@ -129,7 +129,7 @@ This is a known false positive. MDLook is built with PyInstaller, which bundles 
 
 **How do I report a bug or request a feature?**
 
-[Open an issue](https://github.com/onofle/MDLook/issues) on this repository.
+[Open an issue](https://github.com/djosci/MDLook/issues) on this repository.
 
 ## License
 
