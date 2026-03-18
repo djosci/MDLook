@@ -40,32 +40,32 @@ Most Markdown editors are either bloated (Electron), need internet for fonts and
 
 <table>
 <tr>
-<td><a href="screenshots/screenshot-edit-1.png"><img src="screenshots/screenshot-edit-1.png" width="400" alt="Edit mode" /></a><br /><strong>Edit mode</strong> — split-pane with live preview</td>
-<td><a href="screenshots/screenshot-read-2.png"><img src="screenshots/screenshot-read-2.png" width="400" alt="Math and diagrams" /></a><br /><strong>Math & Diagrams</strong> — KaTeX + Mermaid, built-in</td>
+<td><a href="screenshots/screenshot-edit-1.png"><img src="screenshots/screenshot-edit-1.png" width="100%" alt="Edit mode" /></a><br /><strong>Edit mode</strong> — split-pane with live preview</td>
+<td><a href="screenshots/screenshot-read-2.png"><img src="screenshots/screenshot-read-2.png" width="100%" alt="Math and diagrams" /></a><br /><strong>Math & Diagrams</strong> — KaTeX + Mermaid, built-in</td>
 </tr>
 <tr>
-<td><a href="screenshots/screenshot-edit-2.png"><img src="screenshots/screenshot-edit-2.png" width="400" alt="Math and diagrams, edit mode" /></a><br /><strong>Math in Edit mode</strong> — source on the left, render on the right</td>
-<td><a href="screenshots/screenshot-color-tokens.png"><img src="screenshots/screenshot-color-tokens.png" width="400" alt="Color tokens" /></a><br /><strong>Color tokens</strong> — adaptive colored text with swatches</td>
+<td><a href="screenshots/screenshot-edit-2.png"><img src="screenshots/screenshot-edit-2.png" width="100%" alt="Math and diagrams, edit mode" /></a><br /><strong>Math in Edit mode</strong> — source on the left, render on the right</td>
+<td><a href="screenshots/screenshot-color-tokens.png"><img src="screenshots/screenshot-color-tokens.png" width="100%" alt="Color tokens" /></a><br /><strong>Color tokens</strong> — adaptive colored text with swatches</td>
 </tr>
 <tr>
-<td><a href="screenshots/screenshot-read-3.png"><img src="screenshots/screenshot-read-3.png" width="400" alt="Tables and lists" /></a><br /><strong>Tables & Checklists</strong> — with blockquotes</td>
-<td><a href="screenshots/screenshot-collapse.png"><img src="screenshots/screenshot-collapse.png" width="400" alt="Collapsible sections" /></a><br /><strong>Collapsible sections</strong> — fold any heading, block counts</td>
+<td><a href="screenshots/screenshot-read-3.png"><img src="screenshots/screenshot-read-3.png" width="100%" alt="Tables and lists" /></a><br /><strong>Tables & Checklists</strong> — with blockquotes</td>
+<td><a href="screenshots/screenshot-collapse.png"><img src="screenshots/screenshot-collapse.png" width="100%" alt="Collapsible sections" /></a><br /><strong>Collapsible sections</strong> — fold any heading, block counts</td>
 </tr>
 <tr>
-<td><a href="screenshots/screenshot-dark-night-mode.png"><img src="screenshots/screenshot-dark-night-mode.png" width="400" alt="Dark mode" /></a><br /><strong>Dark mode</strong> — full theme, easy on the eyes</td>
-<td><a href="screenshots/screenshot-dark-wide.png"><img src="screenshots/screenshot-dark-wide.png" width="400" alt="Dark wide layout" /></a><br /><strong>Wide layout</strong> — dark mode + syntax highlighting</td>
+<td><a href="screenshots/screenshot-dark-night-mode.png"><img src="screenshots/screenshot-dark-night-mode.png" width="100%" alt="Dark mode" /></a><br /><strong>Dark mode</strong> — full theme, easy on the eyes</td>
+<td><a href="screenshots/screenshot-dark-wide.png"><img src="screenshots/screenshot-dark-wide.png" width="100%" alt="Dark wide layout" /></a><br /><strong>Wide layout</strong> — dark mode + syntax highlighting</td>
 </tr>
 <tr>
-<td><a href="screenshots/screenshot-zen-mode.png"><img src="screenshots/screenshot-zen-mode.png" width="400" alt="Zen mode" /></a><br /><strong>Zen mode</strong> — distraction-free writing</td>
-<td><a href="screenshots/screenshot-source-1.png"><img src="screenshots/screenshot-source-1.png" width="400" alt="Source view" /></a><br /><strong>Source view</strong> — raw Markdown, monospace</td>
+<td><a href="screenshots/screenshot-zen-mode.png"><img src="screenshots/screenshot-zen-mode.png" width="100%" alt="Zen mode" /></a><br /><strong>Zen mode</strong> — distraction-free writing</td>
+<td><a href="screenshots/screenshot-source-1.png"><img src="screenshots/screenshot-source-1.png" width="100%" alt="Source view" /></a><br /><strong>Source view</strong> — raw Markdown, monospace</td>
 </tr>
 <tr>
-<td><a href="screenshots/screenshot-outline-light.png"><img src="screenshots/screenshot-outline-light.png" width="400" alt="Outline sidebar" /></a><br /><strong>Outline sidebar</strong> — hierarchical TOC for navigation</td>
-<td><a href="screenshots/screenshot-outline-dark.png"><img src="screenshots/screenshot-outline-dark.png" width="400" alt="Outline sidebar dark" /></a><br /><strong>Outline (dark)</strong> — click any heading to jump</td>
+<td><a href="screenshots/screenshot-outline-light.png"><img src="screenshots/screenshot-outline-light.png" width="100%" alt="Outline sidebar" /></a><br /><strong>Outline sidebar</strong> — hierarchical TOC for navigation</td>
+<td><a href="screenshots/screenshot-outline-dark.png"><img src="screenshots/screenshot-outline-dark.png" width="100%" alt="Outline sidebar dark" /></a><br /><strong>Outline (dark)</strong> — click any heading to jump</td>
 </tr>
 <tr>
-<td><a href="screenshots/screenshot-help-modal.png"><img src="screenshots/screenshot-help-modal.png" width="400" alt="Help modal" /></a><br /><strong>Help & shortcuts</strong> — built-in reference</td>
-<td><img src="screenshots/demo-teleprompter.gif" width="400" alt="Teleprompter demo" /><br /><strong>Teleprompter</strong> — auto-scroll at adjustable speed</td>
+<td><a href="screenshots/screenshot-help-modal.png"><img src="screenshots/screenshot-help-modal.png" width="100%" alt="Help modal" /></a><br /><strong>Help & shortcuts</strong> — built-in reference</td>
+<td><img src="screenshots/demo-teleprompter.gif" width="100%" alt="Teleprompter demo" /><br /><strong>Teleprompter</strong> — auto-scroll at adjustable speed</td>
 </tr>
 </table>
 
